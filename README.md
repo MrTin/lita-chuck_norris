@@ -1,21 +1,18 @@
-# lita-norris-facts
+# lita-chuck_norris
 
-[![Build Status](https://travis-ci.org/webdestroya/lita-catfacts.png)](https://travis-ci.org/webdestroya/lita-catfacts)
-[![Code Climate](https://codeclimate.com/github/webdestroya/lita-catfacts.png)](https://codeclimate.com/github/webdestroya/lita-catfacts)
-[![Coverage Status](https://coveralls.io/repos/webdestroya/lita-catfacts/badge.png)](https://coveralls.io/r/webdestroya/lita-catfacts)
+[![Build Status](https://travis-ci.org/MrTin/lita-chuck_norris.png)](https://travis-ci.org/MrTin/lita-chuck_norris)
 
-**lita-norris-facts** is a handler for [Lita](https://www.lita.io) that provides Chuck Norris facts with the ability to replace Chuck Norris with your custom name.
+**lita-chuck_norris** will put a smile on your face for the rest of your life. It's a handler for [Lita](https://www.lita.io) and keeps spitting back Chuck Norris jokes whenever you write `chuck` to your sweet bot.
 
 ## Installation
-Add lita-norris-facts to your Gemfile:
+Add lita-chuck_norris to your Gemfile:
 
 ``` ruby
-gem 'lita-norris-facts'
+gem 'lita-chuck_norris'
 ```
 
 ## Usage
-    Lita: norrisfacts
-    Lita: norrisfacts John Doe
+    Lita: chuck
 
 ## License
 [MIT](http://opensource.org/licenses/MIT)
